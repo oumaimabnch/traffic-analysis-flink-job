@@ -20,6 +20,7 @@ To install and build the project, follow these steps:
    cd traffic-analysis-flink-job
 
 2. **Build the project using Maven:**
+   
    ```bash
    mvn clean package
 
