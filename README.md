@@ -25,7 +25,8 @@ To install and build the project, follow these steps:
    mvn clean package
    
 3. **Run the project:**
+   
    ```bash
-java -jar target/flink-json-processor-1.0-SNAPSHOT.jar
+   java -jar target/flink-json-processor-1.0-SNAPSHOT.jar
 
 
