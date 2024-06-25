@@ -1,8 +1,8 @@
 package com.sentics.functions;
 
-import com.sentics.models.InputMessage;
-import com.sentics.models.NearMissResult;
-import com.sentics.models.ProcessedMessage;
+import com.sentics.entities.InputMessage;
+import com.sentics.entities.NearMissResult;
+import com.sentics.entities.ProcessedMessage;
 import org.apache.flink.streaming.api.functions.windowing.ProcessWindowFunction;
 import org.apache.flink.streaming.api.windowing.windows.TimeWindow;
 import org.apache.flink.util.Collector;

@@ -1,6 +1,6 @@
 package com.sentics.utils;
 
-import com.sentics.models.NearMissResult;
+import com.sentics.entities.NearMissResult;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

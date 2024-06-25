@@ -1,4 +1,4 @@
-package com.sentics.models;
+package com.sentics.entities;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;

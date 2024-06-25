@@ -1,4 +1,4 @@
-package com.sentics.models;
+package com.sentics.entities;
 
 import java.util.List;
 

@@ -2,7 +2,7 @@ package com.sentics.functions;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.sentics.models.InputMessage;
+import com.sentics.entities.InputMessage;
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.util.Collector;
 

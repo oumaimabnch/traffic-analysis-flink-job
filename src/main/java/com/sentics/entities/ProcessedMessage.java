@@ -1,4 +1,4 @@
-package com.sentics.models;
+package com.sentics.entities;
 
 public class ProcessedMessage {
     private final InputMessage inputMessage;

@@ -1,7 +1,7 @@
 package com.sentics.functions;
 
-import com.sentics.models.InputMessage;
-import com.sentics.models.ProcessedMessage;
+import com.sentics.entities.InputMessage;
+import com.sentics.entities.ProcessedMessage;
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.util.Collector;
 
