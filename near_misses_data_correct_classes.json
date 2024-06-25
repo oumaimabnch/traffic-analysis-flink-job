@@ -19,7 +19,7 @@
       0.5425,
       0.5425
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -72,7 +72,7 @@
       1.3712,
       1.3712
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -125,7 +125,7 @@
       2.204,
       2.204
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -178,7 +178,7 @@
       0.8346,
       0.8346
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -231,7 +231,7 @@
       2.1821,
       2.1821
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -284,7 +284,7 @@
       2.488,
       2.488
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -337,7 +337,7 @@
       1.4927,
       1.4927
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -390,7 +390,7 @@
       1.3777,
       1.3777
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -443,7 +443,7 @@
       0.9105,
       0.9105
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -496,7 +496,7 @@
       2.1928,
       2.1928
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -549,7 +549,7 @@
       2.1695,
       2.1695
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -602,7 +602,7 @@
       2.434,
       2.434
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -655,7 +655,7 @@
       1.2461,
       1.2461
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -708,7 +708,7 @@
       2.4017,
       2.4017
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -761,7 +761,7 @@
       0.6801,
       0.6801
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -814,7 +814,7 @@
       1.5804,
       1.5804
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -867,7 +867,7 @@
       1.2499,
       1.2499
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -920,7 +920,7 @@
       2.7287,
       2.7287
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -973,7 +973,7 @@
       0.6741,
       0.6741
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1026,7 +1026,7 @@
       0.5617,
       0.5617
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1079,7 +1079,7 @@
       0.4194,
       0.4194
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1132,7 +1132,7 @@
       0.6588,
       0.6588
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1185,7 +1185,7 @@
       0.9534,
       0.9534
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1238,7 +1238,7 @@
       1.5699,
       1.5699
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1291,7 +1291,7 @@
       2.3143,
       2.3143
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1344,7 +1344,7 @@
       2.7301,
       2.7301
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1397,7 +1397,7 @@
       0.4862,
       0.4862
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1450,7 +1450,7 @@
       1.17,
       1.17
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1503,7 +1503,7 @@
       1.6788,
       1.6788
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1556,7 +1556,7 @@
       1.748,
       1.748
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1609,7 +1609,7 @@
       0.9565,
       0.9565
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1662,7 +1662,7 @@
       2.4717,
       2.4717
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1715,7 +1715,7 @@
       1.2223,
       1.2223
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1768,7 +1768,7 @@
       0.357,
       0.357
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1821,7 +1821,7 @@
       1.974,
       1.974
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1874,7 +1874,7 @@
       0.7917,
       0.7917
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1927,7 +1927,7 @@
       2.3703,
       2.3703
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -1980,7 +1980,7 @@
       0.685,
       0.685
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2033,7 +2033,7 @@
       1.0128,
       1.0128
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2086,7 +2086,7 @@
       2.3753,
       2.3753
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2139,7 +2139,7 @@
       1.2282,
       1.2282
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2192,7 +2192,7 @@
       1.8076,
       1.8076
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2245,7 +2245,7 @@
       0.457,
       0.457
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2298,7 +2298,7 @@
       1.9409,
       1.9409
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2351,7 +2351,7 @@
       2.02,
       2.02
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2404,7 +2404,7 @@
       2.6103,
       2.6103
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2457,7 +2457,7 @@
       2.7259,
       2.7259
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2510,7 +2510,7 @@
       2.2899,
       2.2899
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2563,7 +2563,7 @@
       0.949,
       0.949
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2616,7 +2616,7 @@
       2.1178,
       2.1178
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2669,7 +2669,7 @@
       2.7129,
       2.7129
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2722,7 +2722,7 @@
       0.8879,
       0.8879
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2775,7 +2775,7 @@
       1.9092,
       1.9092
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2828,7 +2828,7 @@
       0.5358,
       0.5358
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2881,7 +2881,7 @@
       0.4682,
       0.4682
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2934,7 +2934,7 @@
       2.4111,
       2.4111
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -2987,7 +2987,7 @@
       1.1619,
       1.1619
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3040,7 +3040,7 @@
       0.8172,
       0.8172
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3093,7 +3093,7 @@
       2.5155,
       2.5155
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3146,7 +3146,7 @@
       1.9023,
       1.9023
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3199,7 +3199,7 @@
       1.6421,
       1.6421
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3252,7 +3252,7 @@
       0.3453,
       0.3453
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3305,7 +3305,7 @@
       2.7316,
       2.7316
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3358,7 +3358,7 @@
       1.7693,
       1.7693
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3411,7 +3411,7 @@
       0.3422,
       0.3422
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3464,7 +3464,7 @@
       2.5858,
       2.5858
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3517,7 +3517,7 @@
       0.8928,
       0.8928
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3570,7 +3570,7 @@
       2.6188,
       2.6188
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3623,7 +3623,7 @@
       2.6228,
       2.6228
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3676,7 +3676,7 @@
       0.6914,
       0.6914
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3729,7 +3729,7 @@
       0.3417,
       0.3417
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3782,7 +3782,7 @@
       1.926,
       1.926
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3835,7 +3835,7 @@
       2.0367,
       2.0367
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3888,7 +3888,7 @@
       0.7356,
       0.7356
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3941,7 +3941,7 @@
       2.1204,
       2.1204
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -3994,7 +3994,7 @@
       0.9706,
       0.9706
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4047,7 +4047,7 @@
       0.8648,
       0.8648
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4100,7 +4100,7 @@
       2.66,
       2.66
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4153,7 +4153,7 @@
       1.099,
       1.099
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4206,7 +4206,7 @@
       2.7062,
       2.7062
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4259,7 +4259,7 @@
       2.204,
       2.204
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4312,7 +4312,7 @@
       1.3797,
       1.3797
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4365,7 +4365,7 @@
       0.3326,
       0.3326
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4418,7 +4418,7 @@
       0.9396,
       0.9396
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4471,7 +4471,7 @@
       1.2459,
       1.2459
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4524,7 +4524,7 @@
       0.9156,
       0.9156
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4577,7 +4577,7 @@
       1.8469,
       1.8469
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4630,7 +4630,7 @@
       2.5928,
       2.5928
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4683,7 +4683,7 @@
       2.577,
       2.577
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4736,7 +4736,7 @@
       2.358,
       2.358
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4789,7 +4789,7 @@
       0.3712,
       0.3712
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4842,7 +4842,7 @@
       0.3692,
       0.3692
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4895,7 +4895,7 @@
       1.0662,
       1.0662
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -4948,7 +4948,7 @@
       1.0385,
       1.0385
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5001,7 +5001,7 @@
       2.0784,
       2.0784
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5054,7 +5054,7 @@
       2.2728,
       2.2728
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5107,7 +5107,7 @@
       1.8195,
       1.8195
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5160,7 +5160,7 @@
       1.4952,
       1.4952
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5213,7 +5213,7 @@
       0.7712,
       0.7712
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5266,7 +5266,7 @@
       2.7335,
       2.7335
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5319,7 +5319,7 @@
       4.2533,
       4.1095
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5372,7 +5372,7 @@
       1.7289,
       4.2661
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5425,7 +5425,7 @@
       7.527,
       5.8721
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5478,7 +5478,7 @@
       0.6816,
       4.1785
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5531,7 +5531,7 @@
       6.0367,
       6.2511
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5584,7 +5584,7 @@
       6.0826,
       8.4218
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5637,7 +5637,7 @@
       2.2098,
       0.6994
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5690,7 +5690,7 @@
       4.6809,
       5.7168
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5743,7 +5743,7 @@
       1.2353,
       2.2666
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5796,7 +5796,7 @@
       4.4418,
       6.2975
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5849,7 +5849,7 @@
       9.5129,
       6.4243
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5902,7 +5902,7 @@
       2.2859,
       9.6267
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -5955,7 +5955,7 @@
       4.5287,
       7.482
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6008,7 +6008,7 @@
       6.6156,
       3.6254
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6061,7 +6061,7 @@
       0.7634,
       7.0475
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6114,7 +6114,7 @@
       5.2148,
       1.8355
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6167,7 +6167,7 @@
       3.4708,
       7.516
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6220,7 +6220,7 @@
       8.3106,
       2.1188
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6273,7 +6273,7 @@
       4.8935,
       9.1546
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6326,7 +6326,7 @@
       9.0975,
       3.8377
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6379,7 +6379,7 @@
       7.2128,
       3.1038
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6432,7 +6432,7 @@
       5.0078,
       0.3517
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6485,7 +6485,7 @@
       6.6589,
       7.1746
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6538,7 +6538,7 @@
       3.5942,
       1.1947
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6591,7 +6591,7 @@
       2.7797,
       8.8286
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6644,7 +6644,7 @@
       2.5816,
       7.9598
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6697,7 +6697,7 @@
       5.7742,
       9.1285
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6750,7 +6750,7 @@
       6.0591,
       9.7656
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6803,7 +6803,7 @@
       1.0517,
       9.9341
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6856,7 +6856,7 @@
       6.719,
       7.5169
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6909,7 +6909,7 @@
       5.1991,
       8.4566
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -6962,7 +6962,7 @@
       9.1355,
       7.1751
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7015,7 +7015,7 @@
       8.458,
       8.2277
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7068,7 +7068,7 @@
       7.7092,
       4.1796
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7121,7 +7121,7 @@
       6.1862,
       7.7436
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7174,7 +7174,7 @@
       9.2998,
       0.6559
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7227,7 +7227,7 @@
       5.4339,
       6.9097
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7280,7 +7280,7 @@
       8.1576,
       3.5163
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7333,7 +7333,7 @@
       3.2218,
       7.4769
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7386,7 +7386,7 @@
       2.9747,
       2.7749
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7439,7 +7439,7 @@
       2.0595,
       7.4302
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7492,7 +7492,7 @@
       9.4336,
       5.3229
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7545,7 +7545,7 @@
       4.8439,
       9.9738
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7598,7 +7598,7 @@
       8.0326,
       1.9347
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7651,7 +7651,7 @@
       3.8372,
       5.2085
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7704,7 +7704,7 @@
       9.2687,
       5.1333
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7757,7 +7757,7 @@
       2.1253,
       1.749
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7810,7 +7810,7 @@
       5.8849,
       3.4158
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7863,7 +7863,7 @@
       5.867,
       2.7451
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7916,7 +7916,7 @@
       3.4857,
       1.2364
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -7969,7 +7969,7 @@
       7.0654,
       7.0459
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8022,7 +8022,7 @@
       8.8137,
       0.2861
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8075,7 +8075,7 @@
       2.0141,
       1.4824
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8128,7 +8128,7 @@
       7.9569,
       6.8746
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8181,7 +8181,7 @@
       2.0934,
       8.8187
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8234,7 +8234,7 @@
       4.4391,
       0.8514
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8287,7 +8287,7 @@
       0.7926,
       9.4359
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8340,7 +8340,7 @@
       0.3503,
       0.2061
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8393,7 +8393,7 @@
       0.6163,
       7.5731
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8446,7 +8446,7 @@
       0.5384,
       1.5063
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8499,7 +8499,7 @@
       1.3209,
       4.5122
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8552,7 +8552,7 @@
       4.4379,
       6.1669
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8605,7 +8605,7 @@
       8.3115,
       0.1036
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8658,7 +8658,7 @@
       5.4036,
       3.6354
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8711,7 +8711,7 @@
       8.212,
       1.5073
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8764,7 +8764,7 @@
       6.7913,
       7.0525
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8817,7 +8817,7 @@
       7.8063,
       5.3459
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8870,7 +8870,7 @@
       2.6587,
       1.8346
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8923,7 +8923,7 @@
       7.84,
       3.6882
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -8976,7 +8976,7 @@
       7.4766,
       3.8988
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9029,7 +9029,7 @@
       9.007,
       6.5679
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9082,7 +9082,7 @@
       5.9186,
       7.6716
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9135,7 +9135,7 @@
       6.6471,
       3.0518
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9188,7 +9188,7 @@
       1.3467,
       0.4495
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9241,7 +9241,7 @@
       6.021,
       3.5342
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9294,7 +9294,7 @@
       2.084,
       9.7059
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9347,7 +9347,7 @@
       9.1585,
       4.581
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9400,7 +9400,7 @@
       7.6046,
       0.4681
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9453,7 +9453,7 @@
       2.0111,
       4.6323
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9506,7 +9506,7 @@
       1.9656,
       6.856
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9559,7 +9559,7 @@
       7.0087,
       9.9491
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9612,7 +9612,7 @@
       1.9353,
       6.8981
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9665,7 +9665,7 @@
       8.3724,
       0.321
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9718,7 +9718,7 @@
       9.3378,
       1.5285
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9771,7 +9771,7 @@
       9.9064,
       8.4138
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9824,7 +9824,7 @@
       8.8989,
       7.7623
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9877,7 +9877,7 @@
       2.4851,
       9.8543
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9930,7 +9930,7 @@
       9.0461,
       3.3302
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -9983,7 +9983,7 @@
       2.4309,
       1.6661
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10036,7 +10036,7 @@
       7.7542,
       4.0638
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10089,7 +10089,7 @@
       5.2444,
       2.3733
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10142,7 +10142,7 @@
       0.8619,
       4.2715
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10195,7 +10195,7 @@
       2.4194,
       8.9268
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10248,7 +10248,7 @@
       6.6765,
       0.7127
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10301,7 +10301,7 @@
       1.791,
       7.4172
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10354,7 +10354,7 @@
       4.2009,
       0.0112
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10407,7 +10407,7 @@
       8.8234,
       1.5292
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10460,7 +10460,7 @@
       4.5197,
       9.8995
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10513,7 +10513,7 @@
       3.0624,
       7.7387
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10566,7 +10566,7 @@
       5.9024,
       0.3156
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10619,7 +10619,7 @@
       0.4507,
       4.5114
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10672,7 +10672,7 @@
       4.9511,
       0.7796
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10725,7 +10725,7 @@
       6.3832,
       0.6095
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10778,7 +10778,7 @@
       4.225,
       2.3174
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10831,7 +10831,7 @@
       7.1948,
       7.0097
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10884,7 +10884,7 @@
       3.5519,
       7.8335
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10937,7 +10937,7 @@
       2.1251,
       6.9503
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -10990,7 +10990,7 @@
       5.523,
       5.0934
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11043,7 +11043,7 @@
       5.4145,
       1.3277
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11096,7 +11096,7 @@
       5.6703,
       6.6668
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11149,7 +11149,7 @@
       6.0689,
       9.4851
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11202,7 +11202,7 @@
       2.3829,
       1.5942
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11255,7 +11255,7 @@
       5.1865,
       0.0403
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11308,7 +11308,7 @@
       8.6395,
       8.744
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11361,7 +11361,7 @@
       6.9569,
       4.2131
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11414,7 +11414,7 @@
       7.3848,
       5.1393
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11467,7 +11467,7 @@
       6.5254,
       1.3479
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11520,7 +11520,7 @@
       2.4655,
       0.4347
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11573,7 +11573,7 @@
       3.0841,
       3.8127
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11626,7 +11626,7 @@
       9.2464,
       2.1055
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11679,7 +11679,7 @@
       1.8644,
       2.3541
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11732,7 +11732,7 @@
       8.3677,
       2.2187
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11785,7 +11785,7 @@
       3.1385,
       4.5742
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11838,7 +11838,7 @@
       4.4411,
       7.7258
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11891,7 +11891,7 @@
       1.3225,
       1.8016
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11944,7 +11944,7 @@
       9.2459,
       7.7372
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -11997,7 +11997,7 @@
       4.2057,
       3.0768
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12050,7 +12050,7 @@
       3.9918,
       5.8695
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12103,7 +12103,7 @@
       7.7804,
       7.0642
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12156,7 +12156,7 @@
       9.0079,
       7.3011
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12209,7 +12209,7 @@
       9.0217,
       7.5137
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12262,7 +12262,7 @@
       7.2795,
       5.9166
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12315,7 +12315,7 @@
       6.029,
       9.9516
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12368,7 +12368,7 @@
       2.6441,
       0.5107
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12421,7 +12421,7 @@
       3.5609,
       2.2604
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12474,7 +12474,7 @@
       1.8878,
       3.2469
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12527,7 +12527,7 @@
       0.5264,
       7.7891
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12580,7 +12580,7 @@
       1.9622,
       2.1346
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12633,7 +12633,7 @@
       6.2071,
       9.4211
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12686,7 +12686,7 @@
       1.353,
       9.4162
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12739,7 +12739,7 @@
       9.6742,
       0.7919
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12792,7 +12792,7 @@
       9.2904,
       8.8603
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12845,7 +12845,7 @@
       7.4431,
       0.3896
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12898,7 +12898,7 @@
       0.3404,
       6.9297
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -12951,7 +12951,7 @@
       6.8169,
       7.9057
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13004,7 +13004,7 @@
       2.7935,
       9.6149
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13057,7 +13057,7 @@
       3.6699,
       0.1396
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13110,7 +13110,7 @@
       7.7002,
       8.851
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13163,7 +13163,7 @@
       9.7194,
       1.3689
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13216,7 +13216,7 @@
       9.6385,
       1.5199
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13269,7 +13269,7 @@
       4.7159,
       1.7091
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13322,7 +13322,7 @@
       9.3304,
       6.7113
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13375,7 +13375,7 @@
       3.1116,
       5.5725
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13428,7 +13428,7 @@
       8.3606,
       4.6327
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13481,7 +13481,7 @@
       9.6148,
       3.722
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13534,7 +13534,7 @@
       4.9266,
       9.1496
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13587,7 +13587,7 @@
       9.6521,
       2.7711
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13640,7 +13640,7 @@
       3.6273,
       8.5567
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13693,7 +13693,7 @@
       6.2115,
       6.7027
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13746,7 +13746,7 @@
       3.8075,
       3.0471
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13799,7 +13799,7 @@
       0.0548,
       9.2727
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13852,7 +13852,7 @@
       9.8924,
       8.5484
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13905,7 +13905,7 @@
       3.3047,
       6.8745
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -13958,7 +13958,7 @@
       9.5459,
       9.0365
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14011,7 +14011,7 @@
       3.0263,
       9.6869
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14064,7 +14064,7 @@
       7.3287,
       1.0582
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14117,7 +14117,7 @@
       0.7743,
       1.497
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14170,7 +14170,7 @@
       7.593,
       4.1174
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14223,7 +14223,7 @@
       8.3606,
       7.2596
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14276,7 +14276,7 @@
       3.3204,
       2.8006
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14329,7 +14329,7 @@
       2.74,
       2.437
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14382,7 +14382,7 @@
       4.3946,
       4.5739
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14435,7 +14435,7 @@
       8.2731,
       2.8788
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14488,7 +14488,7 @@
       6.8694,
       2.927
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14541,7 +14541,7 @@
       9.6614,
       8.6601
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14594,7 +14594,7 @@
       4.0851,
       3.2274
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14647,7 +14647,7 @@
       7.0752,
       5.4358
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14700,7 +14700,7 @@
       9.512,
       9.3485
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14753,7 +14753,7 @@
       8.3726,
       8.2402
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14806,7 +14806,7 @@
       6.4386,
       7.593
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14859,7 +14859,7 @@
       1.3468,
       6.9524
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14912,7 +14912,7 @@
       4.5351,
       3.5747
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -14965,7 +14965,7 @@
       3.4858,
       1.6641
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15018,7 +15018,7 @@
       0.5616,
       4.4242
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15071,7 +15071,7 @@
       7.8609,
       4.4843
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15124,7 +15124,7 @@
       1.551,
       1.2962
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15177,7 +15177,7 @@
       4.5203,
       8.3442
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15230,7 +15230,7 @@
       6.0848,
       8.6669
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15283,7 +15283,7 @@
       5.9075,
       6.4469
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15336,7 +15336,7 @@
       6.8031,
       9.5329
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15389,7 +15389,7 @@
       3.0531,
       4.5585
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15442,7 +15442,7 @@
       3.1363,
       4.9006
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15495,7 +15495,7 @@
       6.899,
       5.4116
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15548,7 +15548,7 @@
       4.5629,
       5.494
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15601,7 +15601,7 @@
       0.219,
       6.9667
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15654,7 +15654,7 @@
       9.6229,
       2.2711
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15707,7 +15707,7 @@
       3.8883,
       8.8874
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15760,7 +15760,7 @@
       6.6159,
       9.1466
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15813,7 +15813,7 @@
       6.7639,
       5.2692
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15866,7 +15866,7 @@
       6.4648,
       2.1135
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15919,7 +15919,7 @@
       7.498,
       6.8652
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -15972,7 +15972,7 @@
       5.1379,
       5.6711
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16025,7 +16025,7 @@
       7.8283,
       9.2069
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16078,7 +16078,7 @@
       5.2955,
       2.6984
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16131,7 +16131,7 @@
       7.367,
       0.1773
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16184,7 +16184,7 @@
       6.8104,
       1.9816
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16237,7 +16237,7 @@
       5.276,
       9.0947
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16290,7 +16290,7 @@
       1.3367,
       0.2282
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16343,7 +16343,7 @@
       3.3593,
       6.5304
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16396,7 +16396,7 @@
       6.2664,
       1.9203
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16449,7 +16449,7 @@
       1.153,
       0.4191
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16502,7 +16502,7 @@
       2.8908,
       3.5872
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16555,7 +16555,7 @@
       9.8383,
       6.4656
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16608,7 +16608,7 @@
       1.4641,
       7.2609
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16661,7 +16661,7 @@
       4.1713,
       7.4308
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16714,7 +16714,7 @@
       4.1039,
       0.3917
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16767,7 +16767,7 @@
       6.7056,
       7.5026
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16820,7 +16820,7 @@
       2.5252,
       3.4325
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16873,7 +16873,7 @@
       4.9811,
       9.0876
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16926,7 +16926,7 @@
       3.476,
       2.2618
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -16979,7 +16979,7 @@
       6.688,
       0.7903
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17032,7 +17032,7 @@
       1.8114,
       4.2624
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17085,7 +17085,7 @@
       1.742,
       8.6334
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17138,7 +17138,7 @@
       9.498,
       5.4635
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17191,7 +17191,7 @@
       9.782,
       0.0934
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17244,7 +17244,7 @@
       5.7226,
       1.7719
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17297,7 +17297,7 @@
       1.764,
       8.0295
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17350,7 +17350,7 @@
       9.2991,
       6.3695
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17403,7 +17403,7 @@
       0.7878,
       4.8813
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17456,7 +17456,7 @@
       2.5506,
       6.8211
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17509,7 +17509,7 @@
       9.1,
       8.1673
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17562,7 +17562,7 @@
       0.2048,
       0.1951
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17615,7 +17615,7 @@
       0.8339,
       7.6571
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17668,7 +17668,7 @@
       3.5749,
       4.5667
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17721,7 +17721,7 @@
       7.2263,
       2.8363
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17774,7 +17774,7 @@
       4.0218,
       2.3108
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17827,7 +17827,7 @@
       3.7453,
       1.056
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17880,7 +17880,7 @@
       8.0763,
       8.7556
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17933,7 +17933,7 @@
       8.8558,
       3.1981
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -17986,7 +17986,7 @@
       5.5391,
       8.8419
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18039,7 +18039,7 @@
       4.6078,
       1.8866
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18092,7 +18092,7 @@
       8.8183,
       8.4872
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18145,7 +18145,7 @@
       9.0304,
       2.5178
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18198,7 +18198,7 @@
       1.892,
       0.5764
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18251,7 +18251,7 @@
       8.7966,
       6.5074
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18304,7 +18304,7 @@
       3.2191,
       9.5314
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18357,7 +18357,7 @@
       6.6995,
       8.9813
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18410,7 +18410,7 @@
       1.0475,
       6.3169
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18463,7 +18463,7 @@
       6.8803,
       1.5017
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18516,7 +18516,7 @@
       5.3354,
       0.9579
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18569,7 +18569,7 @@
       4.8431,
       7.9134
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18622,7 +18622,7 @@
       7.4805,
       2.8577
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18675,7 +18675,7 @@
       6.4654,
       9.8148
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18728,7 +18728,7 @@
       7.745,
       4.7718
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18781,7 +18781,7 @@
       8.462,
       6.5353
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18834,7 +18834,7 @@
       8.4531,
       2.6117
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18887,7 +18887,7 @@
       5.5839,
       9.6402
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18940,7 +18940,7 @@
       3.1836,
       3.1128
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -18993,7 +18993,7 @@
       6.9696,
       9.226
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19046,7 +19046,7 @@
       5.199,
       9.0335
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19099,7 +19099,7 @@
       8.5512,
       2.2999
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19152,7 +19152,7 @@
       0.4559,
       1.7488
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19205,7 +19205,7 @@
       7.4071,
       7.4161
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19258,7 +19258,7 @@
       6.1885,
       5.195
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19311,7 +19311,7 @@
       0.6192,
       9.7409
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19364,7 +19364,7 @@
       5.6759,
       2.1046
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19417,7 +19417,7 @@
       2.8567,
       7.7118
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19470,7 +19470,7 @@
       2.2411,
       9.8048
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19523,7 +19523,7 @@
       6.3353,
       7.8251
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19576,7 +19576,7 @@
       5.1456,
       2.7338
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19629,7 +19629,7 @@
       9.7163,
       5.9999
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19682,7 +19682,7 @@
       9.78,
       2.3509
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19735,7 +19735,7 @@
       8.514,
       6.1335
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19788,7 +19788,7 @@
       3.4062,
       6.4482
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19841,7 +19841,7 @@
       9.5881,
       2.3708
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19894,7 +19894,7 @@
       8.5781,
       0.089
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -19947,7 +19947,7 @@
       6.4362,
       6.7187
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20000,7 +20000,7 @@
       3.4489,
       9.9976
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20053,7 +20053,7 @@
       7.9714,
       1.4867
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20106,7 +20106,7 @@
       1.6955,
       1.6639
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20159,7 +20159,7 @@
       2.2856,
       2.2125
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20212,7 +20212,7 @@
       1.6302,
       0.3019
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20265,7 +20265,7 @@
       6.7752,
       6.0229
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20318,7 +20318,7 @@
       7.8994,
       6.3423
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20371,7 +20371,7 @@
       4.6338,
       6.7071
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20424,7 +20424,7 @@
       5.0345,
       8.6593
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20477,7 +20477,7 @@
       8.6161,
       8.9536
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20530,7 +20530,7 @@
       2.432,
       5.7148
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20583,7 +20583,7 @@
       8.2789,
       3.6511
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20636,7 +20636,7 @@
       4.2061,
       6.4838
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20689,7 +20689,7 @@
       2.8891,
       1.4291
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20742,7 +20742,7 @@
       2.8286,
       6.4544
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20795,7 +20795,7 @@
       8.6685,
       0.1929
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20848,7 +20848,7 @@
       9.0575,
       5.0724
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20901,7 +20901,7 @@
       2.9126,
       3.7196
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -20954,7 +20954,7 @@
       3.3835,
       9.434
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21007,7 +21007,7 @@
       9.8304,
       5.9149
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21060,7 +21060,7 @@
       5.2994,
       7.3392
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21113,7 +21113,7 @@
       5.6512,
       6.0404
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21166,7 +21166,7 @@
       9.5354,
       7.7773
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21219,7 +21219,7 @@
       3.2928,
       0.9898
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21272,7 +21272,7 @@
       2.4547,
       8.4221
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21325,7 +21325,7 @@
       0.4156,
       8.8515
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21378,7 +21378,7 @@
       4.9607,
       3.7948
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21431,7 +21431,7 @@
       1.2291,
       9.8893
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21484,7 +21484,7 @@
       2.1962,
       9.1449
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21537,7 +21537,7 @@
       0.1188,
       1.1958
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21590,7 +21590,7 @@
       4.3085,
       6.7178
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21643,7 +21643,7 @@
       6.8188,
       8.3991
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21696,7 +21696,7 @@
       2.6313,
       0.4128
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21749,7 +21749,7 @@
       9.0923,
       8.6617
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21802,7 +21802,7 @@
       4.831,
       2.7747
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21855,7 +21855,7 @@
       9.4408,
       0.4087
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21908,7 +21908,7 @@
       4.4433,
       3.7455
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -21961,7 +21961,7 @@
       6.5464,
       9.1149
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22014,7 +22014,7 @@
       9.7685,
       6.6718
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22067,7 +22067,7 @@
       5.3374,
       4.4821
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22120,7 +22120,7 @@
       0.5997,
       0.824
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22173,7 +22173,7 @@
       3.2183,
       2.2335
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22226,7 +22226,7 @@
       6.8051,
       3.8091
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22279,7 +22279,7 @@
       4.6905,
       1.6223
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22332,7 +22332,7 @@
       9.1876,
       8.5682
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22385,7 +22385,7 @@
       0.6801,
       0.2331
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22438,7 +22438,7 @@
       5.0549,
       4.0809
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22491,7 +22491,7 @@
       9.1685,
       8.1784
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22544,7 +22544,7 @@
       1.6853,
       5.9202
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22597,7 +22597,7 @@
       2.0239,
       4.4475
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22650,7 +22650,7 @@
       2.5194,
       4.4909
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22703,7 +22703,7 @@
       5.7567,
       6.8202
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22756,7 +22756,7 @@
       4.2664,
       6.4105
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22809,7 +22809,7 @@
       5.5702,
       1.2409
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22862,7 +22862,7 @@
       6.4385,
       6.1338
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22915,7 +22915,7 @@
       8.7945,
       2.8854
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -22968,7 +22968,7 @@
       8.5365,
       6.6403
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23021,7 +23021,7 @@
       4.7193,
       8.9598
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23074,7 +23074,7 @@
       9.7725,
       2.5567
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23127,7 +23127,7 @@
       0.457,
       6.1495
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23180,7 +23180,7 @@
       2.2328,
       6.7527
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23233,7 +23233,7 @@
       8.3409,
       5.6348
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23286,7 +23286,7 @@
       3.3008,
       6.065
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23339,7 +23339,7 @@
       8.7878,
       3.5022
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23392,7 +23392,7 @@
       2.5714,
       3.6725
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23445,7 +23445,7 @@
       3.374,
       3.7367
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23498,7 +23498,7 @@
       7.4089,
       7.7143
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23551,7 +23551,7 @@
       7.1167,
       4.6582
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23604,7 +23604,7 @@
       3.708,
       0.2075
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23657,7 +23657,7 @@
       4.3491,
       5.5381
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23710,7 +23710,7 @@
       7.7822,
       2.9301
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23763,7 +23763,7 @@
       1.6888,
       8.1313
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23816,7 +23816,7 @@
       0.2992,
       3.0573
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23869,7 +23869,7 @@
       8.0165,
       7.6263
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23922,7 +23922,7 @@
       9.3798,
       4.0309
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -23975,7 +23975,7 @@
       7.8233,
       8.4262
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24028,7 +24028,7 @@
       0.3209,
       5.5088
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24081,7 +24081,7 @@
       6.0298,
       3.8647
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24134,7 +24134,7 @@
       9.433,
       6.0258
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24187,7 +24187,7 @@
       2.119,
       9.0723
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24240,7 +24240,7 @@
       9.6308,
       0.5753
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24293,7 +24293,7 @@
       5.9184,
       2.7884
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24346,7 +24346,7 @@
       2.7741,
       1.0926
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24399,7 +24399,7 @@
       0.8587,
       8.8985
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24452,7 +24452,7 @@
       2.3467,
       9.6869
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24505,7 +24505,7 @@
       4.7942,
       5.4258
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24558,7 +24558,7 @@
       0.5985,
       9.6414
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24611,7 +24611,7 @@
       7.2463,
       9.4643
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24664,7 +24664,7 @@
       2.5422,
       3.9935
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24717,7 +24717,7 @@
       1.0666,
       2.7733
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24770,7 +24770,7 @@
       7.7866,
       2.4841
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24823,7 +24823,7 @@
       3.3796,
       1.2639
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24876,7 +24876,7 @@
       9.4629,
       7.9006
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24929,7 +24929,7 @@
       4.6606,
       8.6735
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -24982,7 +24982,7 @@
       8.7872,
       7.7518
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25035,7 +25035,7 @@
       2.437,
       2.4033
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25088,7 +25088,7 @@
       5.8163,
       3.7435
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25141,7 +25141,7 @@
       5.5714,
       4.539
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25194,7 +25194,7 @@
       8.487,
       4.1738
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25247,7 +25247,7 @@
       5.1307,
       7.5299
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25300,7 +25300,7 @@
       7.6114,
       4.5792
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25353,7 +25353,7 @@
       0.5703,
       7.7336
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25406,7 +25406,7 @@
       2.4313,
       1.5903
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25459,7 +25459,7 @@
       1.5195,
       5.85
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25512,7 +25512,7 @@
       7.4654,
       1.9645
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25565,7 +25565,7 @@
       4.8287,
       0.782
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25618,7 +25618,7 @@
       8.1081,
       3.7216
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25671,7 +25671,7 @@
       0.9905,
       3.0223
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25724,7 +25724,7 @@
       2.1088,
       8.9179
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25777,7 +25777,7 @@
       5.645,
       1.2576
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25830,7 +25830,7 @@
       4.5376,
       7.6447
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25883,7 +25883,7 @@
       8.1016,
       2.0558
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25936,7 +25936,7 @@
       8.5958,
       9.4077
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -25989,7 +25989,7 @@
       3.1625,
       9.1761
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26042,7 +26042,7 @@
       3.5391,
       1.6144
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26095,7 +26095,7 @@
       6.8737,
       1.4386
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26148,7 +26148,7 @@
       0.9876,
       2.1668
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26201,7 +26201,7 @@
       7.5442,
       8.4852
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26254,7 +26254,7 @@
       1.8739,
       2.1977
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26307,7 +26307,7 @@
       2.7673,
       3.515
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26360,7 +26360,7 @@
       0.0211,
       4.6534
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26413,7 +26413,7 @@
       4.36,
       2.4448
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26466,7 +26466,7 @@
       0.9267,
       4.4002
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26519,7 +26519,7 @@
       0.3965,
       3.382
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26572,7 +26572,7 @@
       6.0478,
       5.7798
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26625,7 +26625,7 @@
       6.1899,
       2.5862
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26678,7 +26678,7 @@
       8.7502,
       0.7422
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26731,7 +26731,7 @@
       5.6463,
       6.4295
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26784,7 +26784,7 @@
       2.8325,
       9.6179
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26837,7 +26837,7 @@
       3.285,
       1.2036
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26890,7 +26890,7 @@
       7.223,
       0.4738
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26943,7 +26943,7 @@
       7.2109,
       8.2002
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -26996,7 +26996,7 @@
       8.4226,
       0.4383
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27049,7 +27049,7 @@
       2.5924,
       7.2563
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27102,7 +27102,7 @@
       0.5384,
       5.9834
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27155,7 +27155,7 @@
       2.3002,
       3.8099
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27208,7 +27208,7 @@
       0.6268,
       7.2936
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27261,7 +27261,7 @@
       1.1197,
       8.9166
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27314,7 +27314,7 @@
       8.5256,
       0.6953
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27367,7 +27367,7 @@
       7.2382,
       1.5885
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27420,7 +27420,7 @@
       9.8337,
       9.0238
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27473,7 +27473,7 @@
       0.6229,
       4.1864
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27526,7 +27526,7 @@
       3.2955,
       9.7988
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27579,7 +27579,7 @@
       9.4769,
       6.6157
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27632,7 +27632,7 @@
       9.4963,
       3.9993
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27685,7 +27685,7 @@
       5.6845,
       6.5034
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27738,7 +27738,7 @@
       4.6954,
       4.0319
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27791,7 +27791,7 @@
       6.4985,
       4.4466
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27844,7 +27844,7 @@
       1.3436,
       9.7781
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27897,7 +27897,7 @@
       9.1373,
       1.4226
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -27950,7 +27950,7 @@
       0.2616,
       2.7561
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28003,7 +28003,7 @@
       3.7795,
       7.7267
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28056,7 +28056,7 @@
       8.8404,
       7.423
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28109,7 +28109,7 @@
       8.9192,
       9.0196
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28162,7 +28162,7 @@
       3.0451,
       8.8198
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28215,7 +28215,7 @@
       6.6241,
       9.769
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28268,7 +28268,7 @@
       9.7646,
       6.5348
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28321,7 +28321,7 @@
       4.5739,
       5.7118
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28374,7 +28374,7 @@
       4.9546,
       9.1727
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28427,7 +28427,7 @@
       5.3055,
       6.0592
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28480,7 +28480,7 @@
       7.354,
       9.4277
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28533,7 +28533,7 @@
       7.5698,
       7.431
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28586,7 +28586,7 @@
       3.7275,
       0.7274
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28639,7 +28639,7 @@
       7.3012,
       4.4236
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28692,7 +28692,7 @@
       2.8715,
       6.9864
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28745,7 +28745,7 @@
       2.0931,
       1.492
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28798,7 +28798,7 @@
       8.4806,
       5.6475
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28851,7 +28851,7 @@
       9.2555,
       3.1985
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28904,7 +28904,7 @@
       6.6869,
       0.3893
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -28957,7 +28957,7 @@
       4.1983,
       9.3235
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29010,7 +29010,7 @@
       7.4539,
       0.5795
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29063,7 +29063,7 @@
       1.7848,
       7.5526
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29116,7 +29116,7 @@
       3.8558,
       6.6187
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29169,7 +29169,7 @@
       7.3586,
       8.3296
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29222,7 +29222,7 @@
       7.7629,
       7.5009
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29275,7 +29275,7 @@
       6.8814,
       7.6766
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29328,7 +29328,7 @@
       5.9405,
       9.7174
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29381,7 +29381,7 @@
       1.906,
       1.4409
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29434,7 +29434,7 @@
       7.2071,
       0.8763
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29487,7 +29487,7 @@
       3.2695,
       5.044
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29540,7 +29540,7 @@
       8.112,
       1.1114
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29593,7 +29593,7 @@
       7.7627,
       1.82
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29646,7 +29646,7 @@
       9.1218,
       9.1022
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29699,7 +29699,7 @@
       6.0194,
       4.8426
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29752,7 +29752,7 @@
       7.7891,
       2.4919
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29805,7 +29805,7 @@
       3.9207,
       7.2339
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29858,7 +29858,7 @@
       6.434,
       2.5766
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29911,7 +29911,7 @@
       3.5418,
       1.0777
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -29964,7 +29964,7 @@
       3.17,
       3.421
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30017,7 +30017,7 @@
       5.1688,
       9.3751
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30070,7 +30070,7 @@
       6.4344,
       1.3328
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30123,7 +30123,7 @@
       6.4591,
       1.8621
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30176,7 +30176,7 @@
       9.7972,
       0.4458
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30229,7 +30229,7 @@
       0.3235,
       3.1646
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30282,7 +30282,7 @@
       0.3426,
       4.9792
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30335,7 +30335,7 @@
       9.4675,
       6.9341
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30388,7 +30388,7 @@
       6.498,
       1.1717
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30441,7 +30441,7 @@
       3.9736,
       3.9605
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30494,7 +30494,7 @@
       1.3269,
       8.1928
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30547,7 +30547,7 @@
       0.6261,
       5.7301
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30600,7 +30600,7 @@
       4.9936,
       5.9286
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30653,7 +30653,7 @@
       3.2138,
       2.2391
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30706,7 +30706,7 @@
       9.51,
       0.7386
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30759,7 +30759,7 @@
       8.5815,
       8.5602
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30812,7 +30812,7 @@
       1.6256,
       4.8004
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30865,7 +30865,7 @@
       3.9229,
       6.7521
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30918,7 +30918,7 @@
       8.0749,
       3.4386
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -30971,7 +30971,7 @@
       3.0641,
       9.2479
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31024,7 +31024,7 @@
       3.8489,
       1.9985
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31077,7 +31077,7 @@
       7.5586,
       1.1538
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31130,7 +31130,7 @@
       8.0665,
       5.5218
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31183,7 +31183,7 @@
       6.9846,
       5.8496
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31236,7 +31236,7 @@
       1.2503,
       2.8395
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31289,7 +31289,7 @@
       5.298,
       2.4329
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31342,7 +31342,7 @@
       4.3962,
       0.1384
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31395,7 +31395,7 @@
       7.3699,
       4.3853
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31448,7 +31448,7 @@
       3.1534,
       0.3393
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31501,7 +31501,7 @@
       6.4281,
       5.8943
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31554,7 +31554,7 @@
       0.7644,
       1.3191
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31607,7 +31607,7 @@
       5.5219,
       1.3091
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31660,7 +31660,7 @@
       1.4681,
       2.7977
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31713,7 +31713,7 @@
       6.8072,
       9.8599
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31766,7 +31766,7 @@
       5.3085,
       5.9961
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31819,7 +31819,7 @@
       6.8544,
       6.9965
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31872,7 +31872,7 @@
       0.4611,
       2.5867
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31925,7 +31925,7 @@
       4.7153,
       3.7077
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -31978,7 +31978,7 @@
       4.6446,
       6.4714
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32031,7 +32031,7 @@
       6.4345,
       6.8602
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32084,7 +32084,7 @@
       7.2238,
       9.8369
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32137,7 +32137,7 @@
       3.6559,
       3.2623
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32190,7 +32190,7 @@
       3.8194,
       7.1714
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32243,7 +32243,7 @@
       9.0226,
       0.2996
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32296,7 +32296,7 @@
       5.6859,
       9.6125
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32349,7 +32349,7 @@
       0.8185,
       3.3287
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32402,7 +32402,7 @@
       1.2875,
       1.9512
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32455,7 +32455,7 @@
       9.8751,
       4.4718
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32508,7 +32508,7 @@
       6.1305,
       3.8019
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32561,7 +32561,7 @@
       9.3512,
       1.5661
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32614,7 +32614,7 @@
       9.971,
       0.4294
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32667,7 +32667,7 @@
       4.9835,
       0.9928
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32720,7 +32720,7 @@
       5.0592,
       7.8619
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32773,7 +32773,7 @@
       2.0264,
       3.1632
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32826,7 +32826,7 @@
       6.0699,
       8.2414
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32879,7 +32879,7 @@
       8.3659,
       5.5399
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32932,7 +32932,7 @@
       0.728,
       0.4282
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -32985,7 +32985,7 @@
       8.3458,
       5.9231
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33038,7 +33038,7 @@
       3.4733,
       2.9713
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33091,7 +33091,7 @@
       1.4441,
       0.182
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33144,7 +33144,7 @@
       7.203,
       8.9829
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33197,7 +33197,7 @@
       3.9304,
       4.1631
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33250,7 +33250,7 @@
       6.0869,
       3.8498
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33303,7 +33303,7 @@
       0.73,
       3.9533
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33356,7 +33356,7 @@
       2.5107,
       0.0735
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33409,7 +33409,7 @@
       2.1038,
       7.7266
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33462,7 +33462,7 @@
       5.1886,
       5.8396
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33515,7 +33515,7 @@
       2.0573,
       6.7746
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33568,7 +33568,7 @@
       4.9408,
       9.3683
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33621,7 +33621,7 @@
       3.6649,
       1.8716
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33674,7 +33674,7 @@
       6.6523,
       5.9379
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33727,7 +33727,7 @@
       1.4257,
       5.4554
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33780,7 +33780,7 @@
       7.2099,
       4.4574
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33833,7 +33833,7 @@
       4.0121,
       1.5837
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33886,7 +33886,7 @@
       1.0048,
       3.9847
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33939,7 +33939,7 @@
       1.1858,
       8.9331
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -33992,7 +33992,7 @@
       9.0428,
       8.9447
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34045,7 +34045,7 @@
       3.6882,
       3.1407
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34098,7 +34098,7 @@
       0.1365,
       8.7775
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34151,7 +34151,7 @@
       8.5274,
       2.1995
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34204,7 +34204,7 @@
       6.8804,
       2.1151
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34257,7 +34257,7 @@
       7.7,
       8.0025
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34310,7 +34310,7 @@
       2.0127,
       2.5961
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34363,7 +34363,7 @@
       6.6035,
       6.7244
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34416,7 +34416,7 @@
       2.6561,
       0.2503
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34469,7 +34469,7 @@
       5.7433,
       1.6797
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34522,7 +34522,7 @@
       1.8686,
       3.3708
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34575,7 +34575,7 @@
       5.8877,
       5.4828
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34628,7 +34628,7 @@
       0.3791,
       0.6799
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34681,7 +34681,7 @@
       9.6059,
       7.2629
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34734,7 +34734,7 @@
       7.0237,
       4.1371
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34787,7 +34787,7 @@
       2.9188,
       3.6856
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34840,7 +34840,7 @@
       2.8361,
       6.9064
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34893,7 +34893,7 @@
       0.4553,
       0.0408
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34946,7 +34946,7 @@
       8.1067,
       3.6286
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -34999,7 +34999,7 @@
       0.0568,
       0.1765
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35052,7 +35052,7 @@
       8.511,
       8.7034
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35105,7 +35105,7 @@
       2.0801,
       1.4836
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35158,7 +35158,7 @@
       7.9748,
       7.9915
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35211,7 +35211,7 @@
       1.6653,
       4.3687
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35264,7 +35264,7 @@
       0.4864,
       6.0983
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35317,7 +35317,7 @@
       3.6679,
       3.1194
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35370,7 +35370,7 @@
       6.5201,
       7.8368
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35423,7 +35423,7 @@
       8.3443,
       2.0424
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35476,7 +35476,7 @@
       5.3344,
       0.3641
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35529,7 +35529,7 @@
       0.1952,
       1.7036
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35582,7 +35582,7 @@
       4.3194,
       1.163
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35635,7 +35635,7 @@
       5.2803,
       6.0786
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35688,7 +35688,7 @@
       5.9132,
       3.1849
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35741,7 +35741,7 @@
       5.1033,
       0.673
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35794,7 +35794,7 @@
       4.3643,
       5.7731
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35847,7 +35847,7 @@
       0.341,
       8.6341
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35900,7 +35900,7 @@
       5.9814,
       7.6929
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -35953,7 +35953,7 @@
       6.9832,
       3.7773
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36006,7 +36006,7 @@
       5.6759,
       5.4876
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36059,7 +36059,7 @@
       8.4109,
       7.5222
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36112,7 +36112,7 @@
       0.5423,
       5.4424
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36165,7 +36165,7 @@
       7.9076,
       1.4759
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36218,7 +36218,7 @@
       6.0315,
       1.4081
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36271,7 +36271,7 @@
       2.8489,
       6.0432
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36324,7 +36324,7 @@
       7.2505,
       2.0512
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36377,7 +36377,7 @@
       2.885,
       2.3758
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36430,7 +36430,7 @@
       5.2032,
       1.0365
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36483,7 +36483,7 @@
       0.1574,
       4.0226
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36536,7 +36536,7 @@
       1.0416,
       0.5512
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36589,7 +36589,7 @@
       2.7334,
       5.3769
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36642,7 +36642,7 @@
       0.4073,
       8.373
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36695,7 +36695,7 @@
       2.5192,
       8.1161
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36748,7 +36748,7 @@
       6.9629,
       4.859
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36801,7 +36801,7 @@
       2.4874,
       3.0054
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36854,7 +36854,7 @@
       8.0536,
       4.6277
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36907,7 +36907,7 @@
       9.1842,
       9.4071
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -36960,7 +36960,7 @@
       2.9917,
       1.4942
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37013,7 +37013,7 @@
       8.0424,
       3.4585
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37066,7 +37066,7 @@
       0.0711,
       4.576
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37119,7 +37119,7 @@
       0.7381,
       2.7751
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37172,7 +37172,7 @@
       6.8314,
       4.7354
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37225,7 +37225,7 @@
       1.4403,
       4.6781
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37278,7 +37278,7 @@
       1.7991,
       0.2455
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37331,7 +37331,7 @@
       2.1674,
       9.9494
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37384,7 +37384,7 @@
       3.1193,
       3.0019
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37437,7 +37437,7 @@
       5.427,
       5.1658
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37490,7 +37490,7 @@
       6.0346,
       4.1748
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37543,7 +37543,7 @@
       6.41,
       8.8059
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37596,7 +37596,7 @@
       0.882,
       5.1623
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37649,7 +37649,7 @@
       0.3538,
       7.9149
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37702,7 +37702,7 @@
       1.5044,
       8.517
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37755,7 +37755,7 @@
       3.3106,
       0.7336
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37808,7 +37808,7 @@
       6.6039,
       1.7473
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37861,7 +37861,7 @@
       7.159,
       1.9486
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37914,7 +37914,7 @@
       0.5231,
       5.7464
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -37967,7 +37967,7 @@
       7.1309,
       2.3889
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38020,7 +38020,7 @@
       7.1056,
       8.5795
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38073,7 +38073,7 @@
       7.6141,
       8.7477
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38126,7 +38126,7 @@
       9.5606,
       9.3655
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38179,7 +38179,7 @@
       8.7271,
       3.0598
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38232,7 +38232,7 @@
       2.6281,
       0.6326
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38285,7 +38285,7 @@
       5.0428,
       6.2972
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38338,7 +38338,7 @@
       5.15,
       4.8169
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38391,7 +38391,7 @@
       3.3083,
       3.8055
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38444,7 +38444,7 @@
       0.7265,
       0.6511
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38497,7 +38497,7 @@
       4.4986,
       9.6682
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38550,7 +38550,7 @@
       7.2716,
       5.0126
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38603,7 +38603,7 @@
       6.6106,
       3.9085
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38656,7 +38656,7 @@
       8.1675,
       4.3226
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38709,7 +38709,7 @@
       5.9076,
       2.5621
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38762,7 +38762,7 @@
       7.3846,
       8.9715
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38815,7 +38815,7 @@
       6.6192,
       8.5909
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38868,7 +38868,7 @@
       7.3465,
       0.131
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38921,7 +38921,7 @@
       8.697,
       7.3846
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -38974,7 +38974,7 @@
       8.3369,
       7.1082
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39027,7 +39027,7 @@
       2.2746,
       4.3469
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39080,7 +39080,7 @@
       8.4327,
       6.3866
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39133,7 +39133,7 @@
       5.2904,
       4.3603
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39186,7 +39186,7 @@
       5.8545,
       4.764
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39239,7 +39239,7 @@
       6.9096,
       3.587
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39292,7 +39292,7 @@
       6.7679,
       6.4203
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39345,7 +39345,7 @@
       5.7663,
       8.2507
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39398,7 +39398,7 @@
       5.4197,
       9.1798
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39451,7 +39451,7 @@
       9.9703,
       6.4358
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39504,7 +39504,7 @@
       2.2526,
       8.7845
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39557,7 +39557,7 @@
       4.7277,
       4.0079
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39610,7 +39610,7 @@
       3.3751,
       9.5204
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39663,7 +39663,7 @@
       1.2489,
       6.4665
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39716,7 +39716,7 @@
       7.122,
       6.3309
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39769,7 +39769,7 @@
       8.5166,
       9.3018
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39822,7 +39822,7 @@
       1.1332,
       6.5975
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39875,7 +39875,7 @@
       8.6056,
       0.9215
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39928,7 +39928,7 @@
       2.8868,
       3.7934
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -39981,7 +39981,7 @@
       6.7852,
       0.7645
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40034,7 +40034,7 @@
       6.0314,
       4.7918
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40087,7 +40087,7 @@
       2.1614,
       7.0033
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40140,7 +40140,7 @@
       5.8295,
       1.7578
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40193,7 +40193,7 @@
       9.0416,
       6.8197
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40246,7 +40246,7 @@
       6.5238,
       1.6017
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40299,7 +40299,7 @@
       0.196,
       6.1598
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40352,7 +40352,7 @@
       9.1054,
       0.7584
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40405,7 +40405,7 @@
       2.082,
       6.1522
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40458,7 +40458,7 @@
       0.7286,
       8.9616
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40511,7 +40511,7 @@
       4.4389,
       9.2324
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40564,7 +40564,7 @@
       1.643,
       7.6633
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40617,7 +40617,7 @@
       5.549,
       9.1067
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40670,7 +40670,7 @@
       7.5064,
       7.7698
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40723,7 +40723,7 @@
       4.0283,
       8.4664
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40776,7 +40776,7 @@
       4.7324,
       8.0952
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40829,7 +40829,7 @@
       9.3635,
       1.9471
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40882,7 +40882,7 @@
       1.6619,
       3.8343
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40935,7 +40935,7 @@
       2.9918,
       1.1158
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -40988,7 +40988,7 @@
       0.662,
       3.5315
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41041,7 +41041,7 @@
       3.9601,
       3.4694
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41094,7 +41094,7 @@
       4.4308,
       4.0441
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41147,7 +41147,7 @@
       2.5317,
       9.1479
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41200,7 +41200,7 @@
       1.743,
       2.7687
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41253,7 +41253,7 @@
       4.6754,
       8.6272
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41306,7 +41306,7 @@
       3.9597,
       2.4375
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41359,7 +41359,7 @@
       4.4014,
       5.1574
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41412,7 +41412,7 @@
       3.4015,
       6.6363
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41465,7 +41465,7 @@
       7.9677,
       4.4918
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41518,7 +41518,7 @@
       7.9254,
       0.8633
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41571,7 +41571,7 @@
       0.4038,
       0.8828
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41624,7 +41624,7 @@
       5.0753,
       2.4874
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41677,7 +41677,7 @@
       8.5284,
       7.1244
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41730,7 +41730,7 @@
       3.1759,
       9.9355
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41783,7 +41783,7 @@
       0.8626,
       7.1119
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41836,7 +41836,7 @@
       6.3157,
       5.211
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41889,7 +41889,7 @@
       7.4648,
       7.4798
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41942,7 +41942,7 @@
       1.0074,
       1.0842
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -41995,7 +41995,7 @@
       6.0878,
       9.9189
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42048,7 +42048,7 @@
       6.6439,
       4.389
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42101,7 +42101,7 @@
       0.9966,
       0.9735
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42154,7 +42154,7 @@
       8.2462,
       2.168
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42207,7 +42207,7 @@
       2.8855,
       7.0366
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42260,7 +42260,7 @@
       0.8881,
       2.3716
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42313,7 +42313,7 @@
       0.6353,
       2.9744
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42366,7 +42366,7 @@
       9.4144,
       4.7796
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42419,7 +42419,7 @@
       6.0662,
       3.4405
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42472,7 +42472,7 @@
       4.4318,
       7.4399
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42525,7 +42525,7 @@
       6.0338,
       9.9624
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42578,7 +42578,7 @@
       3.8113,
       5.7494
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42631,7 +42631,7 @@
       5.8718,
       8.5373
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42684,7 +42684,7 @@
       8.6735,
       2.3917
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42737,7 +42737,7 @@
       5.7802,
       0.128
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42790,7 +42790,7 @@
       1.2372,
       7.5087
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42843,7 +42843,7 @@
       7.7775,
       1.7003
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42896,7 +42896,7 @@
       2.4998,
       2.4055
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -42949,7 +42949,7 @@
       9.9106,
       9.9759
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43002,7 +43002,7 @@
       6.0608,
       9.6765
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43055,7 +43055,7 @@
       9.8108,
       1.4425
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43108,7 +43108,7 @@
       9.7897,
       8.6173
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43161,7 +43161,7 @@
       4.5664,
       0.9505
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43214,7 +43214,7 @@
       5.5265,
       4.0864
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43267,7 +43267,7 @@
       3.2873,
       8.2856
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43320,7 +43320,7 @@
       3.3376,
       7.5288
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43373,7 +43373,7 @@
       4.3325,
       2.3555
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43426,7 +43426,7 @@
       4.8319,
       6.7991
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43479,7 +43479,7 @@
       2.1077,
       6.6648
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43532,7 +43532,7 @@
       5.7331,
       3.765
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43585,7 +43585,7 @@
       0.9396,
       7.2573
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43638,7 +43638,7 @@
       3.6676,
       2.7419
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43691,7 +43691,7 @@
       6.0082,
       4.3376
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43744,7 +43744,7 @@
       6.0741,
       0.8363
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43797,7 +43797,7 @@
       9.5041,
       4.0949
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43850,7 +43850,7 @@
       3.8179,
       5.873
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43903,7 +43903,7 @@
       3.4298,
       8.4494
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -43956,7 +43956,7 @@
       7.2114,
       7.3823
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44009,7 +44009,7 @@
       0.6664,
       7.5267
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44062,7 +44062,7 @@
       8.4931,
       8.419
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44115,7 +44115,7 @@
       3.0879,
       3.7001
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44168,7 +44168,7 @@
       5.5537,
       6.0507
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44221,7 +44221,7 @@
       5.6271,
       8.1881
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44274,7 +44274,7 @@
       0.1787,
       3.1764
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44327,7 +44327,7 @@
       6.9242,
       6.0589
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44380,7 +44380,7 @@
       7.9001,
       6.8966
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44433,7 +44433,7 @@
       6.8501,
       4.8621
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44486,7 +44486,7 @@
       8.3481,
       2.0428
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44539,7 +44539,7 @@
       8.9223,
       3.9298
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44592,7 +44592,7 @@
       3.7449,
       7.6107
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44645,7 +44645,7 @@
       1.7534,
       0.1974
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44698,7 +44698,7 @@
       9.201,
       6.248
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44751,7 +44751,7 @@
       5.461,
       6.1995
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44804,7 +44804,7 @@
       9.1326,
       2.3285
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44857,7 +44857,7 @@
       6.7986,
       9.5917
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44910,7 +44910,7 @@
       9.2707,
       6.7557
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -44963,7 +44963,7 @@
       3.9707,
       2.6647
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45016,7 +45016,7 @@
       4.2028,
       1.1262
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45069,7 +45069,7 @@
       2.2059,
       9.6057
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45122,7 +45122,7 @@
       6.1513,
       8.4056
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45175,7 +45175,7 @@
       2.6449,
       9.6782
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45228,7 +45228,7 @@
       3.1252,
       3.3183
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45281,7 +45281,7 @@
       3.6637,
       5.2908
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45334,7 +45334,7 @@
       9.5127,
       6.3838
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45387,7 +45387,7 @@
       2.661,
       7.5096
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45440,7 +45440,7 @@
       9.0579,
       3.4193
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45493,7 +45493,7 @@
       6.053,
       8.1822
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45546,7 +45546,7 @@
       4.9832,
       2.6094
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45599,7 +45599,7 @@
       4.3217,
       7.485
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45652,7 +45652,7 @@
       1.5625,
       3.1688
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45705,7 +45705,7 @@
       7.5298,
       5.0225
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45758,7 +45758,7 @@
       2.26,
       1.2843
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45811,7 +45811,7 @@
       3.5724,
       4.7233
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45864,7 +45864,7 @@
       3.2843,
       5.5883
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45917,7 +45917,7 @@
       3.6105,
       8.7096
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -45970,7 +45970,7 @@
       7.6593,
       7.7768
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46023,7 +46023,7 @@
       4.5326,
       3.534
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46076,7 +46076,7 @@
       4.0359,
       6.2147
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46129,7 +46129,7 @@
       7.2065,
       3.2682
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46182,7 +46182,7 @@
       5.8099,
       5.6873
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46235,7 +46235,7 @@
       2.2151,
       8.7803
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46288,7 +46288,7 @@
       9.3686,
       1.3756
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46341,7 +46341,7 @@
       0.9294,
       5.6361
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46394,7 +46394,7 @@
       0.1664,
       3.8473
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46447,7 +46447,7 @@
       4.0931,
       2.2717
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46500,7 +46500,7 @@
       7.4577,
       8.2118
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46553,7 +46553,7 @@
       3.3828,
       6.2256
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46606,7 +46606,7 @@
       7.3699,
       8.0689
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46659,7 +46659,7 @@
       9.7716,
       8.5881
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46712,7 +46712,7 @@
       6.4072,
       7.32
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46765,7 +46765,7 @@
       8.3041,
       1.5183
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46818,7 +46818,7 @@
       0.0471,
       9.4585
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46871,7 +46871,7 @@
       3.3947,
       9.5382
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46924,7 +46924,7 @@
       3.3629,
       5.0057
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -46977,7 +46977,7 @@
       0.9838,
       2.137
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47030,7 +47030,7 @@
       7.4216,
       0.196
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47083,7 +47083,7 @@
       2.9978,
       4.7436
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47136,7 +47136,7 @@
       1.8931,
       3.147
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47189,7 +47189,7 @@
       6.2839,
       0.7775
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47242,7 +47242,7 @@
       9.2901,
       8.4202
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47295,7 +47295,7 @@
       8.2302,
       8.1499
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47348,7 +47348,7 @@
       2.3185,
       6.7126
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47401,7 +47401,7 @@
       3.6705,
       9.1659
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47454,7 +47454,7 @@
       8.0491,
       6.3166
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47507,7 +47507,7 @@
       4.7615,
       3.7802
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47560,7 +47560,7 @@
       7.5974,
       6.6917
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47613,7 +47613,7 @@
       4.7912,
       6.6742
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47666,7 +47666,7 @@
       7.2666,
       8.0979
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47719,7 +47719,7 @@
       5.9799,
       1.9095
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47772,7 +47772,7 @@
       1.0325,
       0.539
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47825,7 +47825,7 @@
       4.2696,
       2.3482
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47878,7 +47878,7 @@
       3.238,
       5.4562
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47931,7 +47931,7 @@
       1.7071,
       5.0292
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -47984,7 +47984,7 @@
       2.8269,
       6.7832
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48037,7 +48037,7 @@
       4.119,
       2.9779
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48090,7 +48090,7 @@
       3.4194,
       8.9394
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48143,7 +48143,7 @@
       0.4711,
       6.6453
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48196,7 +48196,7 @@
       4.8263,
       1.4552
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48249,7 +48249,7 @@
       5.088,
       8.5053
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48302,7 +48302,7 @@
       7.2035,
       5.9908
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48355,7 +48355,7 @@
       7.5915,
       4.9098
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48408,7 +48408,7 @@
       5.635,
       6.2776
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48461,7 +48461,7 @@
       4.3174,
       6.6072
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48514,7 +48514,7 @@
       6.161,
       3.4062
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48567,7 +48567,7 @@
       2.5753,
       9.0237
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48620,7 +48620,7 @@
       2.9728,
       2.2
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48673,7 +48673,7 @@
       5.3114,
       1.937
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48726,7 +48726,7 @@
       2.1771,
       8.3767
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48779,7 +48779,7 @@
       1.0536,
       3.6439
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48832,7 +48832,7 @@
       3.1407,
       5.495
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48885,7 +48885,7 @@
       8.2614,
       0.5764
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48938,7 +48938,7 @@
       0.3502,
       4.5124
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -48991,7 +48991,7 @@
       4.2074,
       8.9838
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49044,7 +49044,7 @@
       9.532,
       8.6974
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49097,7 +49097,7 @@
       5.8079,
       4.1002
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49150,7 +49150,7 @@
       7.7848,
       3.1822
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49203,7 +49203,7 @@
       9.3891,
       5.8508
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49256,7 +49256,7 @@
       1.2386,
       0.2756
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49309,7 +49309,7 @@
       7.9657,
       4.2451
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49362,7 +49362,7 @@
       3.6138,
       6.7753
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49415,7 +49415,7 @@
       0.3821,
       3.0135
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49468,7 +49468,7 @@
       3.6612,
       0.7991
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49521,7 +49521,7 @@
       8.093,
       6.5843
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49574,7 +49574,7 @@
       1.2825,
       8.8839
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49627,7 +49627,7 @@
       2.0791,
       5.5206
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49680,7 +49680,7 @@
       2.2327,
       3.7069
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49733,7 +49733,7 @@
       8.0618,
       4.8728
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49786,7 +49786,7 @@
       8.4889,
       2.5636
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49839,7 +49839,7 @@
       1.2916,
       7.2746
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49892,7 +49892,7 @@
       5.3154,
       0.5096
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49945,7 +49945,7 @@
       7.7417,
       1.8554
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -49998,7 +49998,7 @@
       0.7482,
       8.6615
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50051,7 +50051,7 @@
       3.032,
       7.6437
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50104,7 +50104,7 @@
       8.4102,
       0.482
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50157,7 +50157,7 @@
       9.8178,
       2.2044
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50210,7 +50210,7 @@
       1.8677,
       2.4921
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50263,7 +50263,7 @@
       3.557,
       1.8467
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50316,7 +50316,7 @@
       7.8342,
       9.6478
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50369,7 +50369,7 @@
       4.5467,
       3.8957
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50422,7 +50422,7 @@
       2.6673,
       4.4884
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50475,7 +50475,7 @@
       4.8241,
       7.2317
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50528,7 +50528,7 @@
       7.6485,
       5.7316
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50581,7 +50581,7 @@
       7.4179,
       7.1673
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50634,7 +50634,7 @@
       5.6161,
       7.1913
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50687,7 +50687,7 @@
       3.6704,
       7.9016
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50740,7 +50740,7 @@
       3.9694,
       2.8228
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50793,7 +50793,7 @@
       3.2871,
       4.8432
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50846,7 +50846,7 @@
       4.7502,
       3.509
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50899,7 +50899,7 @@
       8.7766,
       6.4987
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -50952,7 +50952,7 @@
       0.2434,
       4.2567
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51005,7 +51005,7 @@
       1.4479,
       0.8479
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51058,7 +51058,7 @@
       8.4919,
       6.5803
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51111,7 +51111,7 @@
       6.932,
       0.287
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51164,7 +51164,7 @@
       1.9014,
       6.1173
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51217,7 +51217,7 @@
       1.7009,
       4.4408
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51270,7 +51270,7 @@
       4.9463,
       0.1347
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51323,7 +51323,7 @@
       6.3673,
       1.4287
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51376,7 +51376,7 @@
       9.4233,
       0.9633
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51429,7 +51429,7 @@
       6.2049,
       6.0547
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51482,7 +51482,7 @@
       4.8132,
       3.877
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51535,7 +51535,7 @@
       5.1398,
       0.5955
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51588,7 +51588,7 @@
       4.2011,
       7.6556
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51641,7 +51641,7 @@
       8.9009,
       6.1428
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51694,7 +51694,7 @@
       4.9236,
       4.5058
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51747,7 +51747,7 @@
       8.8566,
       7.7273
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51800,7 +51800,7 @@
       3.9841,
       5.6617
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51853,7 +51853,7 @@
       8.1256,
       1.0079
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51906,7 +51906,7 @@
       2.1024,
       9.6195
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -51959,7 +51959,7 @@
       9.2287,
       7.3019
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52012,7 +52012,7 @@
       6.9746,
       4.8061
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52065,7 +52065,7 @@
       1.5068,
       2.0607
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52118,7 +52118,7 @@
       1.9677,
       0.81
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52171,7 +52171,7 @@
       4.7041,
       0.5901
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52224,7 +52224,7 @@
       5.9304,
       4.1259
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52277,7 +52277,7 @@
       1.3148,
       0.4084
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52330,7 +52330,7 @@
       2.3209,
       0.7119
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52383,7 +52383,7 @@
       2.9516,
       6.9471
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52436,7 +52436,7 @@
       6.4546,
       7.6061
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52489,7 +52489,7 @@
       5.9448,
       4.7514
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52542,7 +52542,7 @@
       5.7777,
       8.5063
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52595,7 +52595,7 @@
       8.6897,
       1.6698
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52648,7 +52648,7 @@
       8.546,
       4.7534
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52701,7 +52701,7 @@
       1.9728,
       1.6973
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52754,7 +52754,7 @@
       3.0474,
       4.1274
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52807,7 +52807,7 @@
       0.2615,
       8.4317
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52860,7 +52860,7 @@
       8.5217,
       3.0895
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52913,7 +52913,7 @@
       5.831,
       0.8935
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],
@@ -52966,7 +52966,7 @@
       9.4816,
       4.8052
     ],
-    "class": [
+    "classType": [
       "vehicle",
       "human"
     ],

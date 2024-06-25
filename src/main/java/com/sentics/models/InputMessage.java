@@ -1,18 +1,40 @@
 package com.sentics.models;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+import java.io.Serializable;
 import java.util.List;
 import java.util.Map;
 
-public class InputMessage {
+public class InputMessage  implements Serializable {
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd HH:mm:ss.SSS")
     private String t;
+
+    @JsonProperty("pos")
     private List<List<Double>> pos;
+
+    @JsonProperty("heading")
     private List<Double> heading;
+
+    @JsonProperty("speed")
     private List<Double> speed;
+
+    @JsonProperty("classType")
     private List<String> classType; // Renamed from 'class' to 'classType' due to Java keyword
+
+    @JsonProperty("id")
     private List<Long> id;
+
+    @JsonProperty("area")
     private List<String> area;
+
+    @JsonProperty("attributes")
     private List<Map<String, String>> attributes;
-    private Map<String, Integer> overall_area;
+
+    @JsonProperty("overall_area")
+    private Map<String, Integer> overallArea;
+
 
     // Getters and setters
     public String getT() {
@@ -23,6 +45,7 @@ public class InputMessage {
         this.t = t;
     }
 
+
     public List<List<Double>> getPos() {
         return pos;
     }
@@ -30,6 +53,7 @@ public class InputMessage {
     public void setPos(List<List<Double>> pos) {
         this.pos = pos;
     }
+
 
     public List<Double> getHeading() {
         return heading;
@@ -47,13 +71,16 @@ public class InputMessage {
         this.speed = speed;
     }
 
+
     public List<String> getClassType() {
         return classType;
     }
 
+
     public void setClassType(List<String> classType) {
         this.classType = classType;
     }
+
 
     public List<Long> getId() {
         return id;
@@ -62,6 +89,7 @@ public class InputMessage {
     public void setId(List<Long> id) {
         this.id = id;
     }
+
 
     public List<String> getArea() {
         return area;
@@ -79,12 +107,14 @@ public class InputMessage {
         this.attributes = attributes;
     }
 
-    public Map<String, Integer> getOverall_area() {
-        return overall_area;
+    public Map<String, Integer> getOverallArea() {
+        return overallArea;
     }
 
-    public void setOverall_area(Map<String, Integer> overall_area) {
-        this.overall_area = overall_area;
+    public void setOverallArea(Map<String, Integer> overallArea) {
+        this.overallArea = overallArea;
     }
+
+
 
 }

@@ -13,14 +13,17 @@ public class ParseJsonFunction implements FlatMapFunction<String, InputMessage> 
 
     @Override
     public void flatMap(String value, Collector<InputMessage> out) throws Exception {
+
         try {
             List<InputMessage> inputMessages = objectMapper.readValue(value, new TypeReference<List<InputMessage>>() {});
-
             for (InputMessage inputMessage : inputMessages) {
+
                 out.collect(inputMessage);
             }
         } catch (Exception e) {
             System.err.println("Error parsing JSON: " + e.getMessage());
+            System.err.println("Problematic JSON: " + value);
+
         }
 
     }
